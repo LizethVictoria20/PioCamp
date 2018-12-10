@@ -1,2 +1,0 @@
-# PioCamp
-BootCamp de PionerasDeveloper
